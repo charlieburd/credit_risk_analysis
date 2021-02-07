@@ -7,7 +7,7 @@
 
 ## Results
 ### RandomOverSampler
-**Balanced Accuracy Scores**: 67.7%
+ * **Balanced Accuracy Scores**: 67.7%
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: .01
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 1.00
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**: .17%
