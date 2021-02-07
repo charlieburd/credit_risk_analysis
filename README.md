@@ -6,22 +6,54 @@
 
 
 ## Results
-### Question - How many Vine reviews and non-Vine reviews were there?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 47, non-Vine: 8362** 
+### RandomOverSampler
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Balanced Accuracy Scores**: 67.7%
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: 0.01
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 1.00
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**: 0.17%
 
 ![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
 
+### SMOTE
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Balanced Accuracy Scores**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**:
 
-### Question: How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 15, non-Vine: 4332** 
+![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
 
-![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(29).png)
+### ClusterCentroids
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Balanced Accuracy Scores**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**:
 
+![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
 
-### Question: What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Vine: 31.9%, non-Vine: 51.8%** 
+### SMOTEENN
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Balanced Accuracy Scores**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**:
 
-![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(30).png)
+![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
+
+### BalancedRandomForestClassifer
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Balanced Accuracy Scores**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**:
+
+![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
+
+### EasyEnsembleClassifier
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Balanced Accuracy Scores**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - High Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Precision Score - Low Risk**: 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Recall Score Difference**:
+
+![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
+
 
 
 ## Summary
