@@ -8,9 +8,9 @@
 ## Results
 ### RandomOverSampler
  * **Balanced Accuracy Scores**: 67.7%
-  * **Precision Score - High Risk**: .01
-  * **Precision Score - Low Risk**: 1.00
-  * **Recall Score Difference**: .17%
+ * **Precision Score - High Risk**: 0.01
+ * **Precision Score - Low Risk**: 1.00
+ * **Recall Score Difference**: 0.17%
 
 ![stacked_launch_outcomes](https://github.com/charlieburd/amazon_vine_analysis/blob/main/Resources/image%20(28).png)
 
