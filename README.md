@@ -57,4 +57,4 @@
 
 
 ## Summary
-#### Based on the 6 different methods, EasyEnsembleClassifier is the preferred method. It had the highest accuracy score of 93.17%. The next highest was score 14% below EasyEnsembleClassifier. It had the highest percission for high-risk at 0.09, when most other models had 0.01. An a differnce in recall score of 0.02%
+#### Based on the 6 different methods, EasyEnsembleClassifier is the preferred method. It had the highest accuracy score of 93.17%. The next highest was score 14% below EasyEnsembleClassifier. It had the highest percission for high-risk at 0.09, when most other models had 0.01. And the smallest difference in recall score with 0.02%
